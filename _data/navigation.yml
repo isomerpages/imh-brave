@@ -1,15 +1,21 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
+  - title: About
     url: /contact-us/
-  - title: Example Page
+  - title: Team Bio
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: FAQ
+    url: /permalink
+    sublinks:
+      - title: General
+        url: /permalink
+      - title: Privacy
+        url: /permalink
+      - title: Results
+        url: /permalink
+      - title: Data Use
+        url: /permalink
+  - title: Contact
+    url: /permalink
+  - title: Indicate Interest
+    url: /permalink
