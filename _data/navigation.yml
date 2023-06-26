@@ -5,16 +5,7 @@ links:
   - title: Team Bio
     url: /example-page/
   - title: FAQ
-    url: /permalink
-    sublinks:
-      - title: General
-        url: /permalink
-      - title: Privacy
-        url: /permalink
-      - title: Results
-        url: /permalink
-      - title: Data Use
-        url: /permalink
+    collection: example-folder
   - title: Contact
     url: /permalink
   - title: Indicate Interest
