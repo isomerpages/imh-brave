@@ -2,6 +2,7 @@ collections:
   faqs:
     output: true
     order:
+      - General/Do I have to come to your clinic?.md
       - General/.keep
       - General/What will be done in the study?.md
       - General/What tests will be done?.md
