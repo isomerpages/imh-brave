@@ -2,6 +2,7 @@ collections:
   faqs:
     output: true
     order:
+      - Privacy/Who will be able to see my child’s data?.md
       - Privacy/.keep
       - General/.keep
       - General/What will be done in the study?.md
