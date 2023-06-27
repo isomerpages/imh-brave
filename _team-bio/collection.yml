@@ -1,4 +1,5 @@
 collections:
   team-bio:
     output: true
-    order: []
+    order:
+      - Study Team Members.md
