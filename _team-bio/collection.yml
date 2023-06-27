@@ -2,6 +2,7 @@ collections:
   team-bio:
     output: true
     order:
+      - Principal Investigator/.keep
       - Team Members/Dr Sung Min.md
       - Team Members/.keep
       - Dr Lim Choon Guan.md
