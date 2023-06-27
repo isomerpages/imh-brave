@@ -6,4 +6,4 @@ third_nav_title: General
 ---
 Q: Do I have to pay?
 
-* All procedures conducted in the study are done at no charge to you.
+ A: All procedures conducted in the study are done at no charge to you.
