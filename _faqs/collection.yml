@@ -2,6 +2,7 @@ collections:
   faqs:
     output: true
     order:
+      - General/What tests will be done?.md
       - General/What will be done in the study?.md
       - General/.keep
       - Who will be able to see my child’s data?.md
