@@ -2,9 +2,9 @@ collections:
   faqs:
     output: true
     order:
-      - Results/Do you provide intervention and therapy?.md
-      - Results/Will I know the results of my child’s screening?.md
       - Results/.keep
+      - Results/Will I know the results of my child’s screening?.md
+      - Results/Do you provide intervention and therapy?.md
       - Privacy/Who will be able to see my child’s data?.md
       - Privacy/.keep
       - General/.keep
