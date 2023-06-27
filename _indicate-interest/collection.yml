@@ -1,5 +1,4 @@
 collections:
   indicate-interest:
     output: true
-    order:
-      - Express Interest.md
+    order: []
