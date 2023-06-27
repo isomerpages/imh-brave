@@ -2,5 +2,5 @@ collections:
   faqs:
     output: true
     order:
-      - Privacy.md
       - General.md
+      - Privacy.md
