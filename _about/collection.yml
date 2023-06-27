@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - What will we be doing?.md
       - About.md
+      - What will we be doing?.md
