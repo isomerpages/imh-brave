@@ -2,6 +2,7 @@ collections:
   faqs:
     output: true
     order:
+      - Results/.keep
       - Privacy/Who will be able to see my child’s data?.md
       - Privacy/.keep
       - General/.keep
