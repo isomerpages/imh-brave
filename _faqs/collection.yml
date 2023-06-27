@@ -2,6 +2,7 @@ collections:
   faqs:
     output: true
     order:
+      - Results/Will I know the results of my child’s screening?.md
       - Results/.keep
       - Privacy/Who will be able to see my child’s data?.md
       - Privacy/.keep
