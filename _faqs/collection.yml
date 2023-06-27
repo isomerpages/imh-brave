@@ -2,8 +2,6 @@ collections:
   faqs:
     output: true
     order:
-      - Data Use/What will you use the data for?.md
-      - Data Use/.keep
       - General/.keep
       - General/What will be done in the study?.md
       - General/What tests will be done?.md
@@ -17,3 +15,5 @@ collections:
       - Results/Will I know the results of my child’s screening?.md
       - Results/Do you provide intervention and therapy?.md
       - Results/Where else can I go for support?.md
+      - Data Use/.keep
+      - Data Use/What will you use the data for?.md
