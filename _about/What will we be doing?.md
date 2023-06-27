@@ -5,7 +5,7 @@ description: ""
 ---
 1. **Mental Health Screening and Assessment**
 
-As part of study participation, mental health screening and assessment will be conducted at no charge
+As part of study participation, mental health screening and assessment will be conducted at **no charge**
 
 Please refer to the FAQ for more details
 
