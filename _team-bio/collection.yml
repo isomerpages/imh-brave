@@ -1,0 +1,4 @@
+collections:
+  team-bio:
+    output: true
+    order: []
