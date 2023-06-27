@@ -1,6 +1,4 @@
 collections:
   faqs:
     output: true
-    order:
-      - General/example-page.md
-      - General/.keep
+    order: []
