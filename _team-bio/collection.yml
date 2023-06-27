@@ -2,4 +2,4 @@ collections:
   team-bio:
     output: true
     order:
-      - Study Team Members.md
+      - Principal Investigator.md
