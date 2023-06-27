@@ -2,4 +2,5 @@ collections:
   team-bio:
     output: true
     order:
+      - Team Members/.keep
       - Principal Investigator.md
