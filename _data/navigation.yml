@@ -5,7 +5,7 @@ links:
   - title: Team Bio
     url: /example-page/
   - title: FAQ
-    url: /faqs/procedures/
+    url: /faqs/general/
     sublinks:
       - title: General
         url: /faqs/general/
