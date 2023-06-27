@@ -4,12 +4,18 @@ links:
     url: /about-brave/
   - title: Team Bio
     url: /example-page/
-  - title: Contact
-    url: /permalink
-  - title: Indicate Interest
-    url: /permalink
   - title: FAQ
     url: /faqs/procedures/
     sublinks:
       - title: General
-        url: /permalink
+        url: /faqs/general/
+      - title: Privacy
+        url: /faqs/privacy/
+      - title: Results
+        url: /faqs/results/
+      - title: Data Use
+        url: /faqs/data/
+  - title: Indicate Interest
+    url: /permalink
+  - title: Contact
+    url: /permalink
