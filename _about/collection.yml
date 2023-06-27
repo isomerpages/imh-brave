@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - About.md
+      - What is BRAVE?.md
       - What will we be doing?.md
       - Who can join the study?.md
