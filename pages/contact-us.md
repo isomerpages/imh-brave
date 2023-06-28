@@ -5,34 +5,19 @@ permalink: /contact-us/
 agency_name: us
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - 3 Second Hospital Avenue
+      - "HPB Building, #03-01"
+      - Singapore 168937
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 8.30am - 5.30pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
     maps_link: ""
-    title: Main Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    title: Child Guidance Clinic
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6435 3852
+      - email: BRAVE@imh.com.sg
       - other: ""
-    title: Careers
+    title: Enquiries & Feedback
 ---
