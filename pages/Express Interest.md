@@ -6,6 +6,7 @@ description: ""
 Thank you for your interest in our study!
 Please take some time to provide your details via this form, and our team will get in touch.
 
+```
 <div style="font-family: Sans-Serif;
     font-size: 15px;
     color: #000;
@@ -24,3 +25,4 @@ Please take some time to provide your details via this form, and our team will g
     padding-top: 5px;">
   Powered by <a style="color: #999" href="https://form.gov.sg">Form</a>
 </div>
+```
