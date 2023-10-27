@@ -12,7 +12,7 @@ Please fill in the FormSG below, and a study team member will contact you with f
     opacity: 0.9;
     padding-top: 5px;
     padding-bottom: 8px;">
-  If the form below is not loaded, you can also fill it in at
+  If the form below is not loaded, you can also fill it in
   <a href="https://form.gov.sg/64dd7926f521930011119eb1">here</a>.
 </div>
 
