@@ -51,4 +51,9 @@ sections:
             aged 16-30
           linktext: Get Help
           url: https://www.imh.com.sg/CHAT/Get-Help/Pages/default.aspx
+        - title: Emergency
+          description: If you or your child is in immediate harm, call 995 or go to the
+            nearest A&E.
+          linktext: Chat with SOS
+          url: https://api.whatsapp.com/send/?phone=6591511767&text&type=phone_number&app_absent=0
 ---
