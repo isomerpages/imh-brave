@@ -31,21 +31,24 @@ sections:
       button: Learn More
       url: /about-brave/
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Mental Health Resources
+      subtitle: Worried about your Child?
       id: textcards
-      description: Text card description
+      description: Here are some resources to support you and your child
       cards:
-        - title: Card
-          description: Card description
+        - title: Mindline.sg
+          description: mindline.sg provides tools, tips, and resources to manage one's
+            wellbeing
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
+          url: https://mindline.sg/youth
+        - title: MindSG
+          description: Explore HPB's suite of self-care tools and resources for you and
+            your child.
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+          url: https://www.healthhub.sg/programmes/mindsg/discover#home
+        - title: CHAT
+          description: CHAT is a national youth mental health assessment service for youth
+            aged 16-30
+          linktext: Get Help
+          url: https://www.imh.com.sg/CHAT/Get-Help/Pages/default.aspx
 ---
