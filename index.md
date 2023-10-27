@@ -24,9 +24,28 @@ sections:
           url: /privacy/
       variant: center
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: About
+      description: BRAVE is Singapore’s first child and adolescent mental health
+        study. We want to study the prevalence of mental health issues in
+        children below 18.
+      button: Learn More
+      url: /about-brave/
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
