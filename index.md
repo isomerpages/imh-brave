@@ -17,7 +17,7 @@ sections:
           description: Conducted at no charge to you
           url: /faqs/general/tests/
         - title: Direct Referral to Mental Health Providers
-          description: For indicated problems
+          description: To follow-up on any diagnoses
           url: /results/treatment/
       variant: center
   - infobar:
