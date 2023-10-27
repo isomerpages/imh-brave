@@ -11,7 +11,7 @@ sections:
       subtitle: A Nation-Wide Mental Health Prevalence Study for Children under 18
       background: /images/hero-banner.png
       button: Indicate Interest
-      url: /contact-us/
+      url: /express-interest/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -22,6 +22,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: center
   - infobar:
       title: Infobar title
       subtitle: Subtitle
