@@ -13,15 +13,12 @@ sections:
       button: Indicate Interest
       url: /express-interest/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Mental Health Screening and Assessment
+          description: Conducted at no charge to you
+          url: /faqs/general/tests/
+        - title: Direct Referral to Mental Health Providers
+          description: For indicated problems
+          url: /results/treatment/
       variant: center
   - infobar:
       title: About
