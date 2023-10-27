@@ -17,7 +17,8 @@ locations:
 contacts:
   - content:
       - phone: +65 6435 3852
-      - email: BRAVE@imh.com.sg
+      - email: DDP_BRAVE@imh.com.sg
       - other: ""
     title: Enquiries & Feedback
+feedback: ""
 ---
