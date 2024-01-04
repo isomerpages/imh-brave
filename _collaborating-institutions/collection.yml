@@ -2,8 +2,8 @@ collections:
   collaborating-institutions:
     output: true
     order:
-      - Primary Institutions/Dr Lim Choon Guan.md
-      - Primary Institutions/.keep
+      - Primary Institution/Dr Lim Choon Guan.md
+      - Primary Institution/.keep
       - Collaborating Institutions/Prof Daniel Fung Shuen Sheng.md
       - Collaborating Institutions/.keep
       - Collaborating Institutions/Dr Sung Min.md
