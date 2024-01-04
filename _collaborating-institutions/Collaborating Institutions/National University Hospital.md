@@ -5,7 +5,4 @@ description: ""
 third_nav_title: Collaborating Institutions
 variant: tiptap
 ---
-### Prof Lee Yung Seng
-
-[insert headshot]
-###### insert appointments and organisation here
+<h3>Department of Paediatrics</h3><p></p><h6>short write up of dept/organisation</h6><p></p>
