@@ -1,5 +1,5 @@
 collections:
-  team-bio:
+  collaborating-institutions:
     output: true
     order:
       - Principal Investigator/Dr Lim Choon Guan.md
