@@ -5,7 +5,4 @@ description: ""
 third_nav_title: Collaborating Institutions
 variant: tiptap
 ---
-### Dr Chu Chi Meng
-
-[insert headshot]
-###### insert appointments and organisation here.
+<h3>National Council of Social Services</h3><p>[insert corporate logo]</p><h6>brief write up of dept/organisation</h6><p></p>
