@@ -1,5 +1,5 @@
 collections:
-  collaborating-institutions:
+  participating-institutions:
     output: true
     order:
       - Primary Institution/Institute of Mental Health.md
