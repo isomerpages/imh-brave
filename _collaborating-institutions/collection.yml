@@ -2,7 +2,7 @@ collections:
   collaborating-institutions:
     output: true
     order:
-      - Primary Institution/Dr Lim Choon Guan.md
+      - Primary Institution/Institute of Mental Health.md
       - Primary Institution/.keep
       - Collaborating Institutions/.keep
       - Collaborating Institutions/National Council of Social Services.md
