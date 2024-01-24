@@ -1,0 +1,19 @@
+collections:
+  faqs:
+    output: true
+    order:
+      - General/.keep
+      - General/What will be done in the study?.md
+      - General/What tests will be done?.md
+      - General/Do I have to pay?.md
+      - General/How long is the study participation?.md
+      - General/Do I have to come to your clinic?.md
+      - General/Is everyone eligible to join this study?.md
+      - Privacy/.keep
+      - Privacy/Who will be able to see my child’s data?.md
+      - Results/.keep
+      - Results/Will I know the results of my child’s screening?.md
+      - Results/Do you provide intervention and therapy?.md
+      - Results/Where else can I go for support?.md
+      - Data Use/.keep
+      - Data Use/What will you use the data for?.md
