@@ -2,7 +2,7 @@
 layout: homepage
 title: "Brave: Mental Health of Children and Adolescents in Singapore"
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/Brave_logo_6_6.png
 permalink: /
 notification: ""
 sections:
