@@ -1,6 +1,6 @@
 title: "Brave: Mental Health of Children and Adolescents in Singapore"
 url: https://staging.d2xck97rlliec3.amplifyapp.com
-favicon: /images/Brave_logo_5_blue_1.jpg
+favicon: /images/isomer-logo.svg
 colors:
   primary-color: "#6217eb"
   secondary-color: "#4372d6"
@@ -53,7 +53,7 @@ staging: https://staging.d2xck97rlliec3.amplifyapp.com
 prod: https://master.d2xck97rlliec3.amplifyapp.com
 facebook-pixel: ""
 resources_name: mental-health-resources
-shareicon: /images/Brave_logo_5_blue_1.jpg
+shareicon: /images/isomer-logo.svg
 is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
