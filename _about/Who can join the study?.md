@@ -2,10 +2,11 @@
 title: Who can join the study?
 permalink: /about/criteria/
 description: ""
+variant: markdown
 ---
-**Aged between 6 – 17**
+**Born between 2007 to 2016**
 
-* Children and Adolescents aged between 6 – 17 are eligible to join our study
+* Children and Adolescents born between 2007 to 2016 (inclusive) are eligible to join our study
 
 **Singaporean Citizens and Permanent Residents**
 
