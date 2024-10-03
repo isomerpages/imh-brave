@@ -2,12 +2,13 @@
 title: What will we be doing?
 permalink: /about/brave-details/
 description: ""
+variant: markdown
 ---
 1. **Mental Health Screening and Assessment**
 
 As part of study participation, mental health screening and assessment will be conducted at **no charge**
 
-Please refer to the FAQ for more details
+Please refer to the [FAQ](/faqs/general/) for more details
 
 2. **Referral to Mental Health Providers**
 
