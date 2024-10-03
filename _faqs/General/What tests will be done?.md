@@ -3,10 +3,9 @@ title: What tests will be done?
 permalink: /faqs/general/tests/
 description: ""
 third_nav_title: General
+variant: markdown
 ---
-Q: What tests will be done?
-
-A: The list of conditions that we are screening for are as follows:
+The list of conditions that we are screening for are as follows:
 
 1.  **Autism Spectrum Disorder (ASD)**
 * A neurodevelopmental disorder that affects how one interacts with others, communicates, learn and behave. Often, people with ASD have difficulties communicating and interacting with other people, show restricted or repetitive interests or behaviours, and are affected in their abilities to function as school, work, or other areas of life.
