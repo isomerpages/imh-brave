@@ -3,10 +3,9 @@ title: How long is the study participation?
 permalink: /faqs/general/duration/
 description: ""
 third_nav_title: General
+variant: markdown
 ---
-Q: How long is the study participation?
-
-A: This screening portion (Part 1) of this study will take roughly **1 hour** to complete.
+This screening portion (Part 1) of this study will take roughly **1 hour** to complete.
 
 * In Part 2, depending on the number of concerns being flagged up, the detailed assessment can take anywhere from 2 to 10 hours to complete.
 
