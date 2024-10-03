@@ -4,7 +4,7 @@ permalink: /about/criteria/
 description: ""
 variant: markdown
 ---
-**Born between 2007 to 2016**
+**Individuals born between 2007 to 2016**
 
 * Children and Adolescents born between 2007 to 2016 (inclusive) are eligible to join our study
 
