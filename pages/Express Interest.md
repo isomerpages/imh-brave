@@ -2,6 +2,7 @@
 title: Express Interest
 permalink: /express-interest/
 description: ""
+variant: markdown
 ---
 Thank you for your interest in participating in our study!
 Please fill in the FormSG below, and a study team member will contact you with further details shortly.
@@ -16,7 +17,7 @@ Please fill in the FormSG below, and a study team member will contact you with f
   <a href="https://form.gov.sg/64dd7926f521930011119eb1">here</a>.
 </div>
 
-<!-- Change the width and height values to suit you best -->
+
 <iframe style="width: 100%; height: 1200px" src="https://form.gov.sg/64dd7926f521930011119eb1" id="iframe"></iframe>
 
 <div style="font-family: Sans-Serif;
