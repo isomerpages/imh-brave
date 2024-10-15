@@ -9,7 +9,7 @@ sections:
   - hero:
       title: BRAVE Study
       subtitle: A Nation-Wide Mental Health Prevalence Study for Children Under 18
-      background: /images/hero-banner.png
+      background: /images/BRAVE_Study__Web_Banner_Draft___1920_x_720_px_.png
       button: Indicate Interest
       url: /express-interest/
       key_highlights:
