@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: ""
       background: /images/BRAVE_Study__Web_Banner_Draft___1920_x_720_px_.png
       button: Indicate Interest
       url: /express-interest/
@@ -18,7 +17,11 @@ sections:
         - title: Direct Referral to Mental Health Providers
           description: To follow-up on any diagnoses
           url: /results/treatment/
-      variant: center
+      variant: floating
+      title: BRAVE Study
+      size: sm
+      alignment: left
+      backgroundColor: gray
   - infobar:
       title: About
       description: BRAVE is Singapore’s first child and adolescent mental health
