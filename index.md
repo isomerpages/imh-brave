@@ -22,6 +22,7 @@ sections:
       size: sm
       alignment: left
       backgroundColor: gray
+      subtitle: A Nationwide Mental Health Prevalence Study for Children under 18
   - infobar:
       title: About
       description: BRAVE is Singapore’s first child and adolescent mental health
