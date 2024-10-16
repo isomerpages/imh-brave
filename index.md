@@ -16,7 +16,7 @@ sections:
           url: /faqs/general/tests/
         - title: Direct Referral to Mental Health Providers
           description: To follow-up on any diagnoses
-          url: /results/treatment/
+          url: /faqs/general/
       variant: floating
       title: BRAVE Study
       size: sm
