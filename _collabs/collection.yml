@@ -1,0 +1,10 @@
+collections:
+  collabs:
+    output: true
+    order:
+      - Primary Institution/Institute of Mental Health.md
+      - Primary Institution/.keep
+      - Collaborating Institutions/.keep
+      - Collaborating Institutions/National Council of Social Services.md
+      - Collaborating Institutions/National University Hospital.md
+      - Collaborating Institutions/Tan Tock Seng Hospital.md

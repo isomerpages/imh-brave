@@ -1,15 +1,21 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Brave_logo_Side_finalsize.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About
+    url: /about-brave/
+  - title: Participating Institutions
+    url: /participating-institutions/
+  - title: FAQ
+    url: /faqs/general/
+    sublinks:
+      - title: General
+        url: /faqs/general/
+      - title: Privacy
+        url: /faqs/privacy/
+      - title: Results
+        url: /faqs/results/
+      - title: Data Use
+        url: /faqs/data/
+  - title: Indicate Interest
+    url: /express-interest/
+  - title: Contact
+    url: /contact-us
