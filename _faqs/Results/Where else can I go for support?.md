@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Results
 variant: markdown
 ---
-Question: I will not be participating in Part 2 of your study, but I am still worried about my child’s mental health. What can I do?
-
-Answer: Parents who will not be participating in Part 2 of our study, but would like to seek further assessment and interventions on their own may consider the following options:
+Parents and Children who will not be participating in Part 2 of our study, but would like to seek further assessment and interventions on their own may consider the following options:
 
 For subsidized care:
 
