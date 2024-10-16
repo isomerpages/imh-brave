@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BRAVE_Study__Web_Banner_Draft___1920_x_720_px___2_.png
+      background: /images/BRAVE_Study__Web_Banner_Draft___1920_x_720_px___1920_x_920_px___1920_x_1120_px_.png
       button: Indicate Interest
       url: /express-interest/
       key_highlights:
