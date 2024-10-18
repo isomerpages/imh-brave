@@ -4,7 +4,7 @@ permalink: /about/brave-details/
 description: ""
 variant: markdown
 ---
-1. **Mental Health Screening and Assessment**
+1.  **Mental Health Screening and Assessment**
 
 As part of study participation, mental health screening and assessment will be conducted at **no charge**
 
