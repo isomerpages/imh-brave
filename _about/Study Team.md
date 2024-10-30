@@ -4,7 +4,7 @@ permalink: /team/
 variant: tiptap
 description: ""
 ---
-<h3>Primary Institution</h3>
+<h3>Study Led by:</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/IMH_Harmonised_color_without_background.png">
@@ -22,4 +22,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/NCSSlogo_RGB_New.png">
 </div>
+<p></p>
+<h3>Study Supported by:</h3>
 <p></p>
