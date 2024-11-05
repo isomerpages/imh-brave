@@ -5,7 +5,7 @@ description: ""
 third_nav_title: General
 variant: markdown
 ---
-This screening portion (Stage 1) of this study will take roughly **1 hour** to complete.
+This screening portion (Stage 1) of this study will take roughly **15-30 minutes** to complete.
 
 * In Stage 2, depending on the number of concerns being flagged up, the detailed assessment can take anywhere from 2 to 10 hours to complete.
 
