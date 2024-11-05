@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Results
 variant: markdown
 ---
-Parents and Children who will not be participating in Part 2 of our study, but would like to seek further assessment and interventions on their own may consider the following options:
+Parents and Children who will not be participating in Stage 2 of our study, but would like to seek further assessment and interventions on their own may consider the following options:
 
 For subsidized care:
 
