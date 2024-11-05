@@ -2,8 +2,6 @@ logo: /images/Brave_logo_Side_finalsize.png
 links:
   - title: About
     url: /about-brave/
-  - title: Participating Institutions
-    url: /participating-institutions/
   - title: FAQ
     url: /faqs/general/
     sublinks:
@@ -19,3 +17,14 @@ links:
     url: /express-interest/
   - title: Contact
     url: /contact-us
+  - title: About
+    url: /about-brave/
+    sublinks:
+      - title: What is BRAVE?
+        url: /about-brave/
+      - title: Study Team
+        url: /team/
+      - title: What will we be doing?
+        url: /about/brave-details/
+      - title: Who can join the study?
+        url: /about/criteria/
