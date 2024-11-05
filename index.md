@@ -25,9 +25,9 @@ sections:
       subtitle: A Nationwide Mental Health Prevalence Study for Children under 18
   - infobar:
       title: About
-      description: BRAVE is Singapore’s first child and adolescent mental health
-        study. We want to study the prevalence of mental health issues in
-        children below 18.
+      description: BRAVE is a nationwide study to screen for and establish the
+        prevalence of mental health issues in children and adolescents born
+        between 2007 and 2016
       button: Learn More
       url: /about-brave/
   - textcards:
