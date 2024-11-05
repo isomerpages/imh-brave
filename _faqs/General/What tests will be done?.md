@@ -19,7 +19,3 @@ The list of conditions that we are screening for are as follows:
 4.   **Anxiety Disorders**
 
 *  A mental health condition that involves persistent feeling of anxiety or dread, which interferes with daily life. This is not the same as occasionally worrying about things or stressing about life events.
-
-5.   **Obsessive-Compulsive Disorder (OCD)**
-
-* A mental health condition in with a person has uncontrollable, and reoccurring thoughts or behaviours that they feel the urge to repeat over and over.
