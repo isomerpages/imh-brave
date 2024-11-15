@@ -25,6 +25,6 @@ description: ""
 <p></p>
 <h4>Study Supported by:</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TF_Logo.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Temasek_Foundation_logo.png">
 </div>
 <p></p>
