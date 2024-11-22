@@ -20,5 +20,10 @@ contacts:
       - email: DDP_BRAVE@imh.com.sg
       - other: ""
     title: Enquiries & Feedback
+  - content:
+      - phone: +65 6435 3130
+      - email: ""
+      - other: ""
+    title: "You may also reach us at:"
 feedback: ""
 ---
