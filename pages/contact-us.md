@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6435 3852
-      - email: DDP_BRAVE@imh.com.sg
+      - email: IMH.DDP.BRAVE@nhghealth.com.sg
       - other: ""
     title: Enquiries & Feedback
   - content:
